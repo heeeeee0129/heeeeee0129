@@ -1,9 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Heesu%20Jung😄&fontSize=90&animation=twinkling)
-[![trophy](https://github-profile-trophy.vercel.app/?username=heeeeee0129)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![heeeeee0129's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeeee0129&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/heeeeee0129)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeeeee0129%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 # Skills
@@ -17,7 +12,7 @@
 
 ## 2022-1 (3학년 1학기)
 
-### 아주대학교 개발자 커뮤니티 플랫폼, AjouCola
+### [아주대학교 개발자 커뮤니티 플랫폼, AjouCola](https://github.com/AjouCola)
 
 - Description : 아주대학교 학생들을 위한 개발 커뮤니티 플랫폼
     - 마크다운으로 작성할 수 있는 게시글/댓글 기능 + 코드 삽입 가능
@@ -33,7 +28,7 @@
 
 ## 2022-SUMMER (3학년 여름학기)
 
-### [슈프리마 아이디] 개발품질팀 인턴 : 지문 스캐너 제품 QA 업무
+### [[슈프리마 아이디] 개발품질팀 인턴 : 지문 스캐너 제품 QA 업무](https://www.xperix.com/ko/contents/index.php)
 
 - Description
     
@@ -53,7 +48,7 @@
 
 ## 2022-2 (3학년 2학기)
 
-### 아주대학교 기숙사 룸메이트 매칭 플랫폼, ShareMate app
+### [아주대학교 기숙사 룸메이트 매칭 플랫폼, ShareMate app](https://github.com/ShareMate/sharemate-client)
 
 - Description: 아주대학교 기숙사 사생들 간 비슷한 성향의 룸메이트를 모집할 수 있는 플랫폼을 제작함.
 - What did I do
@@ -68,7 +63,7 @@
 
 ## 2022-WINTER (3학년 겨울학기)
 
-### [(주)브랜치앤바운드] 컨텐츠팀 인턴 : 코드트리 컨텐츠 및 TestData 개발
+### [[(주)브랜치앤바운드] 컨텐츠팀 인턴 : 코드트리 컨텐츠 및 TestData 개발](https://www.codetree.ai)
 
 - Description: 코드트리 사이트의 컨텐츠 제작을 담당하여 알고리즘 문제를 출제하고, 컨텐츠의 자동 채점에 이용되는 모범코드와 testdata를 작성함
 - What did I do
@@ -83,7 +78,7 @@
 
 ## 2023-2 (4학년 2학기)
 
-### 올인원 자전거 라이딩 어플리케이션, S_BA(Smart Bicycle Assistant)
+### [올인원 자전거 라이딩 어플리케이션, S_BA(Smart Bicycle Assistant)](https://github.com/Smart-Bicycle-Assistant/sba-frontend-web)
 
 - Description: 자전거 라이딩에 특화된 All-in-One 통합 어플리케이션을 제작함
 - What did I do
@@ -183,3 +178,8 @@
 ### 아주대학교 소프트웨어학과
 - 2020.03 ~ 2024.02
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=heeeeee0129)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![heeeeee0129's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeeee0129&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/heeeeee0129)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeeeee0129%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
