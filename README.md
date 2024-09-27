@@ -3,7 +3,7 @@
 
 # Skills
 - Language: C/C++, Python, JAVA
-- FrontEnd: javascript, typescript, React.js, HTML/CSS, Tailwind CSS
+- FrontEnd: javascript, typescript, Next.js, React.js, HTML/CSS, Tailwind CSS, Vue.js
 
 <br/>
 
@@ -80,60 +80,11 @@
 <br/>
 <br/>
 
-## 자잘한 프로젝트
-
-### 시각장애인을 위한 인덕션 온도 알림 시스템
-
-- Description: 시각장애인을 위한 가열 기구 사용 시 음성 메세지로 온도 정보를 안내하고, 사용자가 인식되지 않는 상황에서 기구가 가열되어 있을 경우 경보음을 출력하는 시스템을 제작함.
-- What did I do
-    - 오픈 소스를 이용하여 텍스트를 음성으로 전환하는 TTS 기능을 구현
-    - 거리 센서와 온도 센서의 경우 쓰레드를 통해 주기적으로 온도와 거리를 측정한 값을 측정하도록 함.
-    - 3개의 라즈베리파이는 소켓 통신을 통해 각 센서의 값을 주고 받고, 그 값에 따라 음성 메세지 또는 경보음을 출력하도록 함.
-- Tech Stack
-    - C, Python
-    
-
-### 비대면 수업 중 졸음감지 시스템
-
-- Description: 비대면 수업 화면 속 일정 시간 이상 졸고 있는 학생을 감지할 경우 경고 메세지를 출력하는 프로그램을 제작함.
-- What did I do
-    - OpenCV 를 사용하여 사람의 얼굴을 인식하고 dlib 을 통해 얼굴의 랜드마크를 추출하여 눈의 위치를 인식하도록 함.
-    - 감은 눈과 뜬 눈에 대한 이미지를 통해 CNN 레이어를 직접 구성하여 눈의 이미지를 입력시켰을 때 눈 감은 여부를 알아내는 모델을 학습시킴.
-    - 컴퓨터 화면에서 프로그램을 실행하면 화면 속 사람의 눈을 인식하고 일정 프레임 이상 눈을 감고 있다고 감지될 경우 화면에 경고 메세지를 출력하는 실행 프로그램을 제작함.
-- Tech Stack
-    - Python, OpenCV
-
-### 업사이클링 쇼핑몰
-
-- Description: 쓰레기를 새로운 가치 있는 물건으로 재탄생시키는 업사이클링의 활성화를 위해 사업자는 업사이클링의 재료를 쉽게 수거하고, 소비자는 업사이클링 상품을 구매할 수 있는 업사이클링 쇼핑몰을 제작함.
-- What did I do
-    - 소비자/사업자/게스트/포인트 전역 상태 관리
-    - 상품 구매 및 상품 정보 업로드 페이지 제작
-    - 마이페이지, 상품 구매 내역, 재료 수거 내역 페이지 제작
-    - Google Map API 연동
-- Tech Stack
-    - Javascript, React.js, Tailwind CSS, Zustand, Vercel, Yarn
-    
-
-### AI 감정 어시스턴트 어플리케이션
-
-- Description: 사용자의 감정 안정도를 분석하는 설문을 통해 감정 상태를 분석하고, 감정적 조언 또는 일상 속 가벼운 할 일 추천 등을 제공하는 AI 감정 어시스턴트 어플리케이션을 제작함.
-- What did I do
-    - 목표: GPT 활용해보기
-    - GPT 모델을 fine tuning하여 원하는 답변을 안정적으로 받을 수 있도록 함
-    - React Native를 이용하여 사용자의 감정을 분석하는 설문 페이지를 제작함
-    - GPT api를 연결하여 GPT의 답변을 React Native 웹뷰에 띄워줌
-- Tech Stack
-    - GPT API, Python, React Native, Redux, javascript
-      
-<br/>
-<br/>
-
-## 기타 활동
+## 활동
 
 ### SSAFY
 - 2024.01 ~ 2024.12
-- JAVA 전공 11기
+- 웹 과정 JAVA 전공 11기
 
 ### GDSC Ajou
 
