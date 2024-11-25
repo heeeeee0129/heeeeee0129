@@ -139,8 +139,12 @@
 
 **⌨ Tech Stack:** Typescript, React, Tailwind CSS, Zustand, Vercel, Yarn
 
+
 </aside>
+
 <br/>
+
+
 ## Work Experiences
 
 
@@ -181,7 +185,9 @@
 **⌨ Tech Stack:** C++, Python
 
 </aside>
+
 <br/>
+
 ## Other Experiences
 <aside>
 
